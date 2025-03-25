@@ -1,44 +1,23 @@
-# news_app
+# 📰 news_app
 
-****News App****
+## **News App**
 
 A Flutter-based news application that fetches and displays news articles dynamically.
 
-**Features**
+---
 
-Fetches latest news from an API.
-Displays news articles with headlines, descriptions, and images.
-Supports dark mode.
-State management using Provider.
-Organized project structure following best practices.
+## **✨ Features**
+- Fetches latest news from an API.
+- Displays news articles with headlines, descriptions, and images.
+- Supports dark mode.
+- State management using **Provider**.
+- Organized project structure following best practices.
 
-**Project Structure**
+---
 
-lib/
-│── models/
-│   ├── news_article.dart
-│── providers/
-│   ├── news_provider.dart
-│── screens/
-│   ├── news_list_screen.dart
-│   ├── news_detail_screen.dart
-│── services/
-│   ├── news_service.dart
-│── main.dart
+## **📂 Project Structure**
 
-
-**Technologies Used**
-
-Flutter (Dart) - Frontend framework
-Provider - State management
-REST API - Fetching news
-HTTP Package - API requests
-
-**API Integration & State Management**
-
-Uses Provider for state management.
-Fetches news articles using news_service.dart.
-Displays articles in news_list_screen.dart and news_detail_screen.dart.
+lib/ │── models/ │ ├── news_article.dart │── providers/ │ ├── news_provider.dart │── screens/ │ ├── news_list_screen.dart │ ├── news_detail_screen.dart │── services/ │ ├── news_service.dart │── main.dart
 
 
 ![image](https://github.com/user-attachments/assets/439e656d-c236-4d6b-93cb-e43f8bf515af)
@@ -47,22 +26,30 @@ Displays articles in news_list_screen.dart and news_detail_screen.dart.
 
 
 
+---
 
-**Error Handling & Edge Cases**
+## **🛠 Technologies Used**
+- **Flutter (Dart)** - Frontend framework  
+- **Provider** - State management  
+- **REST API** - Fetching news  
+- **HTTP Package** - API requests  
 
-Displays a placeholder image if a news image is missing.
-Handles network failures with retry mechanisms.
-Validates API responses to prevent crashes.
+---
 
-**Future Improvements**
+## **🔗 API Integration & State Management**
+- Uses **Provider** for state management.  
+- Fetches news articles using `news_service.dart`.  
+- Displays articles in `news_list_screen.dart` and `news_detail_screen.dart`.  
 
-Implement search functionality.
-Add category-based news filtering.
-Improve UI with animations.
+---
 
-
-
-
+## **🚀 Installation & Setup**
+### **Prerequisites**
+Ensure you have the following installed:  
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)  
+- [Dart](https://dart.dev/get-dart)  
+- Android Studio or Visual Studio Code (with Flutter extension)  
+- A device/emulator to run the app  
 
 
 A few resources to get you started if this is your first Flutter project:
