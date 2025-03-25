@@ -17,8 +17,20 @@ A Flutter-based news application that fetches and displays news articles dynamic
 
 ## **📂 Project Structure**
 
-lib/ │── models/ │ ├── news_article.dart │── providers/ │ ├── news_provider.dart │── screens/ │ ├── news_list_screen.dart │ ├── news_detail_screen.dart │── services/ │ ├── news_service.dart │── main.dart
+lib/
+│── models/ │ 
+  ├── news_article.dart
+│── providers/ │ 
+  ├── news_provider.dart 
+│── screens/ │ 
+  ├── news_list_screen.dart │
+  ├── news_detail_screen.dart 
+│── services/ │ 
+  ├── news_service.dart 
+│── main.dart
 
+
+## ** OUTPUT**
 
 ![image](https://github.com/user-attachments/assets/439e656d-c236-4d6b-93cb-e43f8bf515af)
 ![image](https://github.com/user-attachments/assets/b758dddc-a334-4ea0-970f-20c71ff1bb5b)
