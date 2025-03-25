@@ -55,7 +55,6 @@ lib/
 
 ---
 
-## **🚀 Installation & Setup**
 ### **Prerequisites**
 Ensure you have the following installed:  
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)  
