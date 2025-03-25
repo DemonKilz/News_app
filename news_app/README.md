@@ -30,7 +30,7 @@ lib/
 │── main.dart
 
 
-## ** OUTPUT**
+## **OUTPUT**
 
 ![image](https://github.com/user-attachments/assets/439e656d-c236-4d6b-93cb-e43f8bf515af)
 ![image](https://github.com/user-attachments/assets/b758dddc-a334-4ea0-970f-20c71ff1bb5b)
