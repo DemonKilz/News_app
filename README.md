@@ -55,6 +55,12 @@ lib/
 
 ---
 
+## **🚀 Future Improvements**
+- Implement search functionality. 
+- Implement search functionality.
+- Improve UI with animations.
+
+---
 
 ### **Prerequisites**
 Ensure you have the following installed:  
